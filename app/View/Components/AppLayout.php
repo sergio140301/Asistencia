@@ -7,6 +7,8 @@ use Illuminate\View\View;
 
 class AppLayout extends Component
 {
+
+    //YAMILET
     //gjgj SI
     //wtf
     public function render(): View
