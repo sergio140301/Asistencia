@@ -10,6 +10,7 @@ class AppLayout extends Component
     //gjgj
     //yami
     //OTRA EDICION
+    //YAMILET
     public function render(): View
     {
         return view('layouts.app');
