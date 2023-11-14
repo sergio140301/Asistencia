@@ -7,7 +7,7 @@ use Illuminate\View\View;
 
 class AppLayout extends Component
 {
-    //gjgj
+    //gjgj SI
     //yami
     //OTRA EDICION
     //YAMILET
