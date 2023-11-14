@@ -8,6 +8,7 @@ use Illuminate\View\View;
 class AppLayout extends Component
 {
     //gjgj SI
+    //wtf
     public function render(): View
     {
         return view('layouts.app');
