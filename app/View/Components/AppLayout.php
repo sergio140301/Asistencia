@@ -9,6 +9,7 @@ class AppLayout extends Component
 {
 
     //YAMILET
+    //gjgj SI
     public function render(): View
     {
         return view('layouts.app');
