@@ -24,9 +24,10 @@
 
             <h5 class="display-8">Asistencias del curso: </h5>
 
+            
             <div class="row">
-                <div style="display: none;">
-                    <label for="">{{ $duracion }}</label>
+                <div style="">
+                    <label for="">Numero de asistencias: {{ $duracion }}</label>
                 </div>
                 
 
